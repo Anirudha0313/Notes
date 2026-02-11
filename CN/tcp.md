@@ -1,1 +1,0 @@
-TCP (Transmission Control Protocol) and IP (Internet Protocol) are two fundamental protocols in the TCP/IP model, each serving distinct roles in network communication

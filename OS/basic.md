@@ -1,2 +1,0 @@
-Operating System
-An Operating System (OS) is a software that acts as an interface between the user and computer hardware. It manages hardware and software resources, performing essential tasks such as file management, memory management, and process management. The OS ensures that the computer responds to user commands and coordinates the use of hardware components.
